@@ -1,26 +1,26 @@
 # Your Name or Company
-title: Uni Kravitz
+title: Ken Muyesu
 
 # Description of your website. This is used for social sharing.
-description:  The beautiful website of artist, poet, craftsperson, cyclist, and avid juggler, Uni Kravitz.
+description:  A freelance iOS Developer based in Nairobi, Kenya.
 
 # A brief blurb about yourself
-content: Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis consectetur purus sit amet fermentum.
+content: Interested in working together? Let's have a chat.
 
 # Add your social links
 social:
   - platform: github
-    url: https://github.com/brianmaierjr
-  - platform: facebook
-    url: https://facebook.com/brianmaierjr
+    url: https://github.com/citixenken
+  - platform: linktree
+    url: https://linktr.ee/citixenken
   - platform: twitter
-    url: https://twitter.com/brianmaierjr
+    url: https://twitter.com/citixenken
   - platform: linkedin
-    url: brianmaierjr
+    url: https://www.linkedin.com/in/ken-muyesu/
 
 # General settings
-# url: http://brianmaierjr.github.com/uni
-# baseurl: "/uni" 
+# url: https://citixenken.github.com
+# baseurl: "/" 
 markdown: kramdown
 sharing_image: share.jpg
 google_analytics: "UA-58263416-1" # google analytics tracking
