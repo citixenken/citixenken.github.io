@@ -6,6 +6,10 @@ title: Uni - A simple, one page Jekyll theme
   <h1 class="pageTitle">{{ site.title }}</h1>
   {% endif %}
 
+  {% if site.description %}
+  <p class="pageDescription">{{ site.description }}</p>
+  {% endif %}
+
   {% if site.content %}
   <p class="pageContent">{{ site.content }}</p>
   {% endif %}
