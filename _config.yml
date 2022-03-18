@@ -9,13 +9,13 @@ content: Interested in working together? Let's have a chat.
 
 # Add your social links
 social:
-  - platform: github
+  - platform: GitHub
     url: https://github.com/citixenken
-  - platform: linktree
+  - platform: Linktree
     url: https://linktr.ee/citixenken
-  - platform: twitter
+  - platform: Twitter
     url: https://twitter.com/citixenken
-  - platform: linkedin
+  - platform: LinkedIn
     url: https://www.linkedin.com/in/ken-muyesu/
 
 # General settings
